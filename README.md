@@ -2,6 +2,8 @@
 
 *a proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec*
 
+##### note: this repo contains references to offensive language found in alt-right and other subreddits, including assault, gendered insults & profanity. links to subreddits, as well as corpora from subreddits used in this project, may also include offensive material.
+
 ### for detailed information about this project, please check out [this post](https://neurodivergent-ai.github.io/blog/semantic_space_and_size.html)
 
 ## citations & docs
