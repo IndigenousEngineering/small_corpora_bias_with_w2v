@@ -6,6 +6,10 @@
 
 ### for detailed information about this project, please check out [this post](https://neurodivergent-ai.github.io/blog/semantic_space_and_size.html).
 
+* find the main code for this project [here](https://github.com/neurodivergent-ai/small_corpora_bias_with_w2v/blob/master/notebooks/small_corpora_bias_analysis_1.ipynb)
+
+* data for this project, including full subreddits, clean & raw text, vocabulary, & final cosine similarity comparisons are [here](https://github.com/neurodivergent-ai/small_corpora_bias_with_w2v/tree/master/data)
+
 ## citations & docs
 
 this repository makes use of a number of outside libraries and resources. here are a few, with documentation and other information.
